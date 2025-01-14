@@ -1,11 +1,4 @@
-# Match Me App
-
-> App for people to find their match.
-
-## URL
-
-[YouTube App Demo](?)
-
+# Find-fy App
 ## Tools
 
 - NextJS
