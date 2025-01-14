@@ -48,7 +48,7 @@ export default async function TopNav() {
                 variant="bordered"
                 className="text-white"
               >
-                Login
+                Logins
               </Button>
               <Button
                 as={Link}
